@@ -82,7 +82,7 @@
 
         'controllerNameSpace' => 'App\\Http\\Controllers',
 
-        'modelNameSpace' => 'App',
+        'modelNameSpace' => 'App\\Models',
 
         /*
         |-------------------------------------------------------------------
